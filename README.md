@@ -15,7 +15,7 @@ I'm a self-taught passionate Full-Stack Blockchain Developer from India 🇮🇳
 - 📧 Connect me at [Mail](mailto:sufiyanworkspace@gmail.com)
 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=DEREK-DEV-AFK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sufiyan's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEREK-DEV-AFK&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=DEREK-DEV-AFK&show_icons=true&theme=buefy&hide_border=true" alt="Sufiyan's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEREK-DEV-AFK&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
