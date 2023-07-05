@@ -12,6 +12,8 @@ I'm a self-taught passionate Full-Stack Blockchain Developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/DEREK-DEV-AFK/DEREK-DEV-AFK/issues)
 
+- 📧 Connect me at [Mail](mailto:sufiyanworkspace@gmail.com)
+
 <code display="flex" >
     <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img height="20" alt="solidity" src="./Assets/Solidity.png">
