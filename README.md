@@ -6,7 +6,7 @@ I'm a self-taught passionate Full-Stack Blockchain Developer from India 🇮🇳
 
 **About me**
 
-- 💼 Blockchain Engineer at [Solulab](https://www.solulab.com/)
+- 💼 Blockchain Engineer
 
 - ❤️ I love writing code, and building fun experiments
 
